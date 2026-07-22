@@ -6,7 +6,7 @@ qc.h(0)
 qc.cx(0, 1)
 qc.measure_all()
 
-sim = AerSimulator()      # ← সঠিকভাবে Aer চালানোর উপায়
+sim = AerSimulator()     
 tqc = transpile(qc, sim)
 result = sim.run(tqc, shots=1024).result()
 
