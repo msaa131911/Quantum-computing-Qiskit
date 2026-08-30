@@ -1,1 +1,1 @@
-# Quantum-computing
+This repository is a collection of my **Quantum Computing journey**, featuring quantum mechanics foundations, quantum algorithms, quantum circuits, mathematical concepts, Qiskit implementations, hands-on experiments, and practical quantum computing projects.
